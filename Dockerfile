@@ -1,5 +1,5 @@
 #Docker container for curl
-FROM debian
+FROM ubuntu
 MAINTAINER Hiromasa Ono, hiromasa.ono@gmail.com
 
 # Install packages
